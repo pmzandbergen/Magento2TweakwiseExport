@@ -5,7 +5,8 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": "^7.4|^8.0|^8.1"
+        "php": "^7.4|^8.0|^8.1",
+        "ext-xmlwriter": "*"
     },
     "require-dev": {
         "malukenho/docheader": "~0.1",
